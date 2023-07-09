@@ -16,3 +16,5 @@ Funcionalidades incorporadas: una de ellas es el botón de reseteo, sin que afec
 - Código modificado: https://github.com/samdeveloper23/arcade2d.git 
 
 Puedes contactar conmigo a través de sam.developer.23@gmail.com
+
+Desploy: https://moonlit-sawine-5d687d.netlify.app
